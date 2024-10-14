@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #070b18;
+    margin: 0;
+    color: #ffffff;
+    line-height: 10px;
+}
+
+img{
+    max-width: 100%;
+}
